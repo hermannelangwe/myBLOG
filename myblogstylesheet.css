@@ -1,0 +1,19 @@
+.terms {background-image: url(backgroundpicstars.jpg);
+              background-repeat: no-repeat;
+              background-size: cover;
+              padding: 200px 50px;}
+   .audiobg {background-image: url(backgroundpiccorridor.jpg);
+              background-repeat: no-repeat;
+              background-size: cover;
+              padding: 200px 50px;}
+     .gold {background-image: url(backgroundpicgreen.jpg);
+              background-repeat: no-repeat;
+              background-size: cover;}  
+    .topping {padding: 30px;background-color: lightgreen;}    
+    .gitbg {background-image: url(githublogo.jpg);
+            font-style: bold;
+            color:red;
+            padding: 15px; 
+            background-color: #C6FF33;
+          background-repeat: no-repeat;
+              background-size: cover;}
